@@ -25,6 +25,11 @@ This project is a **Student Admission Form** built with **HTML** and **CSS**, de
 - **Hover Effects** on the submit button.
 
 ---
+## Project Preview
+
+![Project Screenshot](assets/ss.png)
+
+---
 
 ## Technologies Used
 - **HTML5**: For the form structure.
