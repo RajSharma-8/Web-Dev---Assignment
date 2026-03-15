@@ -65,6 +65,22 @@ A **clone of Flipkart’s homepage** built for practice.
 * Responsive grid layout
 * Focus on layout and design accuracy
 
+### 7️⃣ Student Admission Form
+
+A **form for student admission** demonstrating form handling and layout skills.  
+**Features:**
+* Collects student name, age, class, parent info, and contact details
+* Validation using basic JavaScript
+* Clean and structured form layout
+
+### 8️⃣ Amazon Homepage Layout
+
+A **practice layout inspired by Amazon’s homepage**.  
+**Features:**
+* Navigation bar with logo, search bar, and menu items
+* Multiple product sections (Electronics, Fashion, Deals, Home Essentials)
+* Product cards with images, titles, and prices
+* Hover effects and responsive design
 ---
 
 ## 🛠 Technologies Used
@@ -86,6 +102,8 @@ web-dev-assignments/
 ├── Countries-Currency-Flags/
 ├── JeevanSaathi-Match-Form/
 ├── Flipkart-Frontpage-Clone/
+├── Student-Admission-Form/
+├── Amazon-Homepage-Layout/
 └── README.md
 ```
 
