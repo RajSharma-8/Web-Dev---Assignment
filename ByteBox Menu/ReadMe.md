@@ -45,6 +45,9 @@ ByteBox-Canteen
     ├── favicon.png
     └── background.jpeg
 ```
+## Project Preview
+
+![Project Screenshot](assets/ss.png)
 
 ---
 
@@ -99,6 +102,7 @@ Right Click → Open With → Browser
 
 ## 👨‍💻 Author
 
+Raj  Sharma
 Designed and developed for **educational purposes**.
 
 © 2026 ByteBox • GNIOT Canteen
