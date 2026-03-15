@@ -97,9 +97,6 @@ web-dev-assignments/
 ├── Student-Admission-Form/
 └── README.md
 ```
-## Preview:
-
-![Project Screenshot](assets/screenshot.png)
 
 > Each folder contains the project files including `index.html`, `style.css`, and relevant assets.
 
