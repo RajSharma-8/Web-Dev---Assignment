@@ -53,25 +53,7 @@ The form collects the following information:
 These details help simulate a **basic matchmaking search form** similar to matrimonial websites.
 
 ---
-
-## ⚙️ How to Run the Project
-
-1. Download or clone the project.
-2. Ensure all files are in the correct folder.
-3. Open **index.html** in your browser.
-
-Example:
-
-```
-double click index.html
-```
-
-or
-
-```
-Right Click → Open With → Browser
-```
-
+![Project Screenshot](ss.png)
 ---
 
 ## 📧 Form Submission
@@ -97,7 +79,7 @@ When the user submits the form, their default **email client opens with the form
 ---
 
 ## 👨‍💻 Author
-
+Raj Sharma
 Created for learning and practice purposes.
 
 ---
