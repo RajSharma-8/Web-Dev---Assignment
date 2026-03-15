@@ -47,6 +47,7 @@ project-folder/
 ## Screenshots
 
 ### Homepage View
+![Homepage Screenshot](assets/ss.png)
 <img src="assets/screenshots/homepage.png" alt="Homepage Screenshot" width="600">
 
 ## Author
