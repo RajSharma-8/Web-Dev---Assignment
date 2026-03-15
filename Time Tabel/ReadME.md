@@ -54,6 +54,10 @@ The webpage shows a **Class 5 timetable** with subjects like:
 
 Each day contains a **break period** and different subjects scheduled between **8 AM – 1 PM**.
 
+![Project Screenshot](assets/ss.png)
+
+---
+
 ---
 
 ## ⚙️ How to Run the Project
