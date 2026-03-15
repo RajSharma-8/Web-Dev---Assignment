@@ -73,15 +73,7 @@ A **form for student admission** demonstrating form handling and layout skills.
 * Validation using basic JavaScript
 * Clean and structured form layout
 
-### 8️⃣ Amazon Homepage Layout
-
-A **practice layout inspired by Amazon’s homepage**.  
-**Features:**
-* Navigation bar with logo, search bar, and menu items
-* Multiple product sections (Electronics, Fashion, Deals, Home Essentials)
-* Product cards with images, titles, and prices
-* Hover effects and responsive design
----
+----
 
 ## 🛠 Technologies Used
 
@@ -103,7 +95,6 @@ web-dev-assignments/
 ├── JeevanSaathi-Match-Form/
 ├── Flipkart-Frontpage-Clone/
 ├── Student-Admission-Form/
-├── Amazon-Homepage-Layout/
 └── README.md
 ```
 
