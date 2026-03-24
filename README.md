@@ -55,9 +55,9 @@ A **simple matchmaking form** inspired by matrimonial websites.
 * Clean, centered card design
 * Hover effect on submit button
 
-### 6️⃣ Flipkart Frontpage Clone
+### 6️⃣ Amazon Frontpage Clone
 
-A **clone of Flipkart’s homepage** built for practice.
+A **clone of Amazon homepage** built for practice.
 **Features:**
 
 * Header with search bar and navigation
@@ -93,7 +93,7 @@ web-dev-assignments/
 ├── ByteBox-Canteen-Menu/
 ├── Countries-Currency-Flags/
 ├── JeevanSaathi-Match-Form/
-├── Flipkart-Frontpage-Clone/
+├── Amazon-Frontpage-Clone/
 ├── Student-Admission-Form/
 └── README.md
 ```
