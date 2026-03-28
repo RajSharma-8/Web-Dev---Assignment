@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This project is a **Neon-themed Login & Signup webpage** created using HTML and CSS.
+This project is a ** Login & Signup webpage** created using HTML and CSS.
 It features a modern dark UI with glowing effects, smooth transitions, and a clean layout.
 
 The main goal of this project is to demonstrate:
@@ -29,6 +29,12 @@ The main goal of this project is to demonstrate:
 * HTML5
 * CSS3
 * Google Fonts (Poppins)
+
+---
+## 📸 Output
+
+A stylish login/signup interface with glowing effects and smooth user interaction.
+![Project Screenshot](ss.png)
 
 ---
 
@@ -72,13 +78,6 @@ The main goal of this project is to demonstrate:
 * Smooth hover animations
 * Dark modern interface
 * Clean and centered layout
-
----
-
-## 📸 Output
-
-A stylish login/signup interface with glowing effects and smooth user interaction.
-![Project Screenshot](ss.png)
 
 ---
 
