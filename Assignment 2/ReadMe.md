@@ -78,7 +78,7 @@ The main goal of this project is to demonstrate:
 ## 📸 Output
 
 A stylish login/signup interface with glowing effects and smooth user interaction.
-![Project Screenshot](assets/ss.png)
+![Project Screenshot](ss.png)
 
 ---
 
