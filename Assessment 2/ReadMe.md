@@ -64,6 +64,7 @@ You can view the live demo [here](#) (replace `#` with your live URL).
 ![Raj's Tech Product Screenshot](assets/ss1.png)  
 ![Raj's Tech Product Screenshot](assets/ss2.png)
 ![Raj's Tech Product Screenshot](assets/ss3.png)    
+![Raj's Tech Product Screenshot](assets/ss4.png) 
 *Screenshot created by Raj*
 
 
@@ -71,15 +72,6 @@ You can view the live demo [here](#) (replace `#` with your live URL).
 ---
 
 Raj – Developer & Designer of this project.
-
-GitHub: github.com/raj
-Email: rajtech@example.com
-License
-
-This project is licensed under the MIT License. See the LICENSE
- file for details.
-
-Created with ❤️ by Raj
 
 
 ✅ This version is **complete**, ready for GitHub, includes:  
