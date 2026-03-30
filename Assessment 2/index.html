@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Raj's Tech Product</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-theme="light">
+<nav>
+  <div class="logo">RajTech</div>
+  <ul>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#pricing">Pricing</a></li>
+    <li><a href="#testimonials">Testimonials</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#" onclick="toggleTheme()">🌙</a></li>
+  </ul>
+</nav>
+<section class="hero">
+  <img src="assets/hero1.avif" class="active" alt="Hero Image 1">
+  <img src="assets/hero2.avif" alt="Hero Image 2">
+  <img src="assets/hero3.avif" alt="Hero Image 3">
+  <h1>Raj's Next-Gen Product</h1>
+  <p>Innovative technology crafted for modern users.</p>
+  <div class="cta">
+    <a href="#pricing" class="cta-primary">Get Started</a>
+    <a href="#features" class="cta-secondary">Learn More</a>
+  </div>
+</section>
+<section id="features" class="features">
+  <div class="feature-card"><div class="icon">⚡</div><h3>Fast Performance</h3><p>Experience blazing speed for all your tasks.</p></div>
+  <div class="feature-card"><div class="icon">🔒</div><h3>Secure</h3><p>Top-notch security to protect your data.</p></div>
+  <div class="feature-card"><div class="icon">☁️</div><h3>Cloud Sync</h3><p>Access your data from anywhere, anytime.</p></div>
+  <div class="feature-card"><div class="icon">💡</div><h3>AI Assistance</h3><p>Smart automation for smarter workflows.</p></div>
+</section>
+<section class="stats">
+  <div class="stat"><h2>10K+</h2><p>Users</p></div>
+  <div class="stat"><h2>500+</h2><p>Companies</p></div>
+  <div class="stat"><h2>99%</h2><p>Uptime</p></div>
+</section>
+<section id="pricing" class="pricing">
+
+  <div class="pricing-card">
+    <img src="assets/basic.avif" alt="Basic Plan">
+    <h3>Basic</h3>
+    <p>Essential features to get started.</p>
+    <button>Select Plan</button>
+  </div>
+
+  <div class="pricing-card recommended">
+    <img src="assets/pro.avif" alt="Pro Plan">
+    <h3>Pro</h3>
+    <p>Advanced features for growing teams.</p>
+    <button>Select Plan</button>
+  </div>
+
+  <div class="pricing-card">
+    <img src="assets/enterprise.avif" alt="Enterprise Plan">
+    <h3>Enterprise</h3>
+    <p>Full-featured solution for large organizations.</p>
+    <button>Select Plan</button>
+  </div>
+
+</section>
+<section id="testimonials" class="testimonials">
+  <div class="testimonial-card"><p>"Raj's product transformed our workflow!"</p><h4>– Vineet Pandey</h4></div>
+  <div class="testimonial-card"><p>"A must-have tool for tech enthusiasts."</p><h4>– Aman Singh</h4></div>
+  <div class="testimonial-card"><p>"Reliable, fast, and user-friendly."</p><h4>– Aditya Singh</h4></div>
+</section>
+<section id="contact" class="contact">
+  <div class="contact-box">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </div>
+</section>
+<footer>
+  <div class="footer-content">
+    <div class="socials">
+      <a href="https://twitter.com/" target="_blank" aria-label="Twitter"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" style="width:20px; height:20px;"></a>
+      <a href="https://facebook.com/" target="_blank" aria-label="Facebook"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" style="width:20px; height:20px;"></a>
+      <a href="https://instagram.com/" target="_blank" aria-label="Instagram"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" style="width:20px; height:20px;"></a>
+    </div>
+     <p>Contact: <a href="mailto:rajtech@example.com">rajtech@example.com</a></p>
+    <p>© 2026 RajTech. All rights reserved.</p>
+  </div>
+</footer>
+<script>
+function toggleTheme() {
+  document.body.dataset.theme = document.body.dataset.theme === 'light' ? 'dark' : 'light';
+}
+let heroImages = document.querySelectorAll('.hero img');
+let current = 0;
+setInterval(() => {
+  heroImages[current].classList.remove('active');
+  current = (current + 1) % heroImages.length;
+  heroImages[current].classList.add('active');
+}, 4000);
+</script>
+</body>
+</html>
