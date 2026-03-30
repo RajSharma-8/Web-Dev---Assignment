@@ -9,7 +9,6 @@ A modern, responsive landing page for **RajTech's next-gen product**. Designed w
 - [Demo](#demo)  
 - [Features](#features)  
 - [Screenshot](#screenshot)  
-- [Installation](#installation)  
 - [Usage](#usage)  
 - [Technologies Used](#technologies-used)  
 - [Author](#author)  
